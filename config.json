@@ -1,11 +1,11 @@
 {
       "configuration": [
             {
-                  "folder_path": "/home/rccamacho/Descargas/",
-                  "dest_path": "/home/rccamacho/",
-                  "wallpaper_path": "/home/rccamacho/Imágenes/Wallpapers/",
-                  "image_os_path": "/home/rccamacho/SOImages/",
-                  "app_path": "/home/rccamacho/.config/ogranize_download/"
+                  "folder_path": "/home/$USER/Descargas/",
+                  "dest_path": "/home/$USER/",
+                  "wallpaper_path": "/home/$USER/Imágenes/Wallpapers/",
+                  "image_os_path": "/home/$USER/SOImages/",
+                  "app_path": "/home/$USER/.config/ogranize_download/"
             }
       ],
       "extensions": [
@@ -21,8 +21,8 @@
       ],
       "custompaths": [
             {
-                  "Imágenes": "/home/rccamacho/Imágenes/Wallpapers/",
-                  "Isos": "/home/rccamacho/SOImages/"
+                  "Imágenes": "/home/$USER/Imágenes/Wallpapers/",
+                  "Isos": "/home/$USER/SOImages/"
             }
       ],
       "variables": [
