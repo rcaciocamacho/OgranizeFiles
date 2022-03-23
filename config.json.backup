@@ -1,0 +1,34 @@
+{
+	"configuration": [
+		{
+			"folder_path": "/home/rccamacho/Descargas/",
+			"dest_path": "/home/rccamacho/",
+			"wallpaper_path": "/home/rccamacho/Imágenes/Wallpapers/",
+			"image_os_path": "/home/rccamacho/SOImages/",
+			"app_path": "/home/rccamacho/Repositorios/Desarrollo/Proyectos_Python/Ogranize_Downloads/"
+		}
+	],
+	"extensions": [
+		{
+			"Documentos": ".docx,.doc,.txt,.pdf,.json,.md",
+			"Instaladores": ".deb,.rpm",
+			"Isos": ".iso,.ova,.img",
+			"Imágenes": ".jpg,.jpeg,.ico,.mpeg,.avi,.mp4,.png",
+			"Comprimidos": ".7z,.7zip,.tar,.tar.gz,.zip,.rar,.zip,.tgz",
+			"Scripts": ".sh,.py,.bash",
+			"Excepciones": ".ini,.DOWNLOAD,.tmp"
+		}
+	],
+	"custompaths": [
+		{
+			"Imágenes": "/home/rccamacho/Imágenes/Wallpapers/",
+			"Isos": "/home/rccamacho/SOImages/"
+		}
+	],
+	"variables": [
+		{
+			"access_type": "a",
+			"prefix_images": "wallhaven-"
+		}
+	]
+} 
